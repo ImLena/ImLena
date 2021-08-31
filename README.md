@@ -1,18 +1,22 @@
-### Hi! My name is Lena ✌🏼
-
+### Hi! My name is Lena <img height=40 src="https://github.com/ImLena/ImLena/blob/main/resources/kind.gif"/>
+<br>
 I am Junior Full Stack Developer
 
 ## 💻 Skills
 <div align='center'>
+  <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/java.png"/>
+  <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/react.png"/>      
+  <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/python.png"/>  
+  <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/git.png"/>
+  <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/restapi.png"/>
+  <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/postgresql.png"/>
+
   </div>
   
 ## 🏫 Education
-<div>
-  <span>
-  </span>
-  <span>
-  </span>
-  </div>
+  ITMO University
+  <br></br>
+  Computer Science and Engineering,<br> 3rd year
 
 ## 👩‍💻 Previous Experience
 JetBrains Internship 2021: Front End Developer in TeamCity
@@ -25,18 +29,7 @@ JetBrains Internship 2021: Front End Developer in TeamCity
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlena&layout=compact&theme=tokyonight"/></a>
 </p>
 
-📭 How to reach me: evkhodosova@gmail.com 
-<!--
-**ImLena/ImLena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📭 How to reach me: evkhodosova@gmail.com
+<p align='center'>
+ <a href="https://t.me/yesimlena"><img height=50 src="https://github.com/ImLena/ImLena/blob/main/resources/tg.png"/></a>
+</p>
