@@ -1,6 +1,6 @@
 ### Hi! My name is Lena <img height=40 src="https://github.com/ImLena/ImLena/blob/main/resources/kind.gif"/>
 <br>
-I am Junior Full Stack Developer
+I am Junior Software Engeneer
 
 ## 💻 Skills
 <div align='center'>
