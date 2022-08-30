@@ -19,10 +19,10 @@ I am Junior Software Engineer
 ## 🏫 Education
   ITMO University
   <br></br>
-  Computer Science and Engineering,<br> 3rd year
+  Computer Science and Engineering,<br> 4th year
 
 ## 👩‍💻 Previous Experience
-JetBrains Internship 2021: Front End Developer in TeamCity
+JetBrains Internship 2021: Intern Developer in TeamCity
 ##
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=imlena&show_icons=true&count_private=true&theme=tokyonight&hide=issues,prs"><img
