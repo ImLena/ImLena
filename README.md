@@ -21,8 +21,9 @@ I am Junior Software Engineer
   <br></br>
   Computer Science and Engineering,<br> 4th year
 
-## 👩‍💻 Previous Experience
-JetBrains Internship 2021: Intern Developer in TeamCity
+## 👩‍💻 Now I'm learning
+Java, Kotlin and Go </br>
+Always interested to taking part in projects with these technologies
 ##
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=imlena&show_icons=true&count_private=true&theme=tokyonight&hide=issues,prs"><img
