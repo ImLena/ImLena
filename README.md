@@ -4,15 +4,15 @@ I am Junior Software Engineer
 
 ## 💻 Skills
 <div align='center'>
-  <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/java.png"/>
-  <img height=75 src="https://github.com/ImLena/ImLena/blob/main/resources/Kotlin_Icon.png"/>
-  <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/spring_boot_logo.png"/>
-  <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/react.png"/>      
-  <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/python.png"/>  
-  <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/git.png"/>
-  <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/restapi.png"/>
-  <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/postgresql.png"/>
-  <img height=85 src="https://github.com/ImLena/ImLena/blob/main/resources/docker.png"/>
+  <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/java.png"/>
+  <img height=65 src="https://github.com/ImLena/ImLena/blob/main/resources/Kotlin_Icon.png"/>
+  <img height=70 src="https://github.com/ImLena/ImLena/blob/main/resources/spring_boot_logo.png"/>
+  <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/react.png"/>      
+  <img height=70 src="https://github.com/ImLena/ImLena/blob/main/resources/python.png"/>  
+  <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/git.png"/>
+  <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/restapi.png"/>
+  <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/postgresql.png"/>
+  <img height=75 src="https://github.com/ImLena/ImLena/blob/main/resources/docker.png"/>
   <img height=100 src="https://github.com/ImLena/ImLena/blob/main/resources/go-logo.png"/>
 
   </div>
