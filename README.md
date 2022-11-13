@@ -13,6 +13,7 @@ I am Junior Software Engineer
   <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/restapi.png"/>
   <img height=90 src="https://github.com/ImLena/ImLena/blob/main/resources/postgresql.png"/>
   <img height=85 src="https://github.com/ImLena/ImLena/blob/main/resources/docker.png"/>
+  <img height=100 src="https://github.com/ImLena/ImLena/blob/main/resources/go-logo.png"/>
 
   </div>
   
@@ -21,9 +22,6 @@ I am Junior Software Engineer
   <br></br>
   Computer Science and Engineering,<br> 4th year
 
-## 👩‍💻 Now I'm learning
-Java, Kotlin and Go </br>
-Always interested to taking part in projects with these technologies
 ##
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=imlena&show_icons=true&count_private=true&theme=tokyonight&hide=issues,prs"><img
