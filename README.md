@@ -10,7 +10,6 @@ I am Junior Software Engineer
   <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/react.png"/>      
   <img height=70 src="https://github.com/ImLena/ImLena/blob/main/resources/python.png"/>  
   <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/git.png"/>
-  <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/restapi.png"/>
   <img height=80 src="https://github.com/ImLena/ImLena/blob/main/resources/postgresql.png"/>
   <img height=75 src="https://github.com/ImLena/ImLena/blob/main/resources/docker.png"/>
   <img height=100 src="https://github.com/ImLena/ImLena/blob/main/resources/go-logo.png"/>
