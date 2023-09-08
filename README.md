@@ -20,7 +20,8 @@ I am Junior Software Engineer
 ## 🏫 Education
   ITMO University
   <br></br>
-  Computer Science and Engineering,<br> 4th year
+  Computer Science and Engineering '23,<br>
+  Web Scale Systems 1st year
 
 ##
 <p align='center'>
