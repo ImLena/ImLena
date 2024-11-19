@@ -20,7 +20,7 @@ I am Software Engineer
   ITMO University
   <br></br>
   Computer Science and Engineering '23,<br>
-  Web Scale Systems 1st year
+  Web Scale Systems 2nd year
 
 ##
 <p align='center'>
@@ -29,9 +29,4 @@ I am Software Engineer
            src="https://github-readme-stats.vercel.app/api?username=imlena&show_icons=true&count_private=true&theme=tokyonight&hide=issues,prs"/></a>
    <a href="https://github.com/romankh3/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlena&layout=compact&theme=tokyonight"/></a>
-</p>
-
-📭 How to reach me: evkhodosova@gmail.com
-<p align='center'>
- <a href="https://t.me/yesimlena"><img height=50 src="https://github.com/ImLena/ImLena/blob/main/resources/tg.png"/></a>
 </p>
